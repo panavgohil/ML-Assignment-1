@@ -5,6 +5,8 @@ This project predicts house prices using Support Vector Regression (SVR) and cla
 
 ## Dataset
 King County House Sales Dataset (Seattle, WA)
+Dataset available from Kaggle:
+https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
 ## Techniques Used
 - Data Preprocessing
